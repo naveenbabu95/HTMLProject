@@ -43,3 +43,12 @@ body {
   width: 100%;
   z-index: 10;
 }
+
+ .Htmlcontent {
+    height: 200px;
+    position: absolute;
+    top: 200px;
+    left: 15%;
+    padding: 10px;
+    z-index: 0;
+  }
